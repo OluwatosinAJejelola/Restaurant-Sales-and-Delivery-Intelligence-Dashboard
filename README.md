@@ -1,4 +1,4 @@
-# Restaurant Performance & Profitability Dashboard
+# Restaurant Sales and Delivery Intelligence Dashboard
 
 ## Project Overview
 
