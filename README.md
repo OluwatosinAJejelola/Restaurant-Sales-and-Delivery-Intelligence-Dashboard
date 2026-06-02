@@ -200,22 +200,31 @@ Key visuals:
 This page summarizes the major findings and recommended business actions.
 
 ## Key Insights
-* Total revenue reached AED2.35M.
-* Profit reached AED1.35M with a margin of 57.54%.
-* Deliveroo generated over 62% of total revenue.
-* Hot Sandwiches were the highest-performing category by revenue and profit.
-* Beef Steak Sandwich and Spicy Chicken Sandwich were the strongest individual items.
-* Dubai Marina was the top-performing Deliveroo area.
-* New customers generated more revenue than returning customers.
-* Low-ticket add-ons such as sauces, drinks, and sides sold frequently but contributed lower revenue.
+- **Deliveroo dependency is both a strength and a risk.** At 62% of total revenue, Deliveroo is the dominant sales channel — but this level of reliance on a single third-party platform is a concentration risk. If Deliveroo raises its commission rate or reduces visibility for this outlet, revenue drops materially. Building a direct ordering channel (even a simple WhatsApp or website flow) is a strategic hedge worth evaluating.
+
+- **Hot Sandwiches carry the business.** The category leads on both revenue and profit, driven primarily by the Beef Steak Sandwich and Spicy Chicken Sandwich. These two items likely account for a disproportionate share of total margin — which means stock-outs, quality inconsistency, or price changes on these items have outsized consequences. They should be treated as protected SKUs.
+
+- **High-frequency, low-revenue add-ons (sauces, drinks, sides) are an untapped margin lever.** These items sell well but contribute little to revenue individually. Bundling them with the top two sandwich items at a small discount (e.g. "meal deal" pricing) could lift average order value without meaningful margin erosion, since the add-ons already carry low production cost.
+
+- **New customers outspending returning customers signals a retention problem, not an acquisition win.** When new customers generate more revenue than returning ones, it typically means the business is working harder and spending more to replace customers who don't come back. The 57.5% margin gives enough room to fund a lightweight loyalty mechanism — even a simple repeat-order discount — before the acquisition cost compounds.
+-  **Dubai Marina, Downtown Dubai, and Business Bay are the delivery core.** These three areas likely represent the majority of Deliveroo orders. Concentrating delivery promotions and targeted offers within a defined radius of these zones will yield higher ROI than broad marketing spend.
+
+- **A 57.5% profit margin is strong but needs context.** This margin is healthy for F&B, but understanding whether it holds across all order types (dine-in vs. Deliveroo) matters — Deliveroo pricing is typically higher to absorb platform commission. If the blended margin masks a weaker dine-in margin, that's an operational signal worth surfacing.
+
+---
 
 ## Recommendations
-* Increase delivery-focused promotions since Deliveroo is the strongest sales channel.
-* Promote high-performing categories such as Hot Sandwiches and Cold Sandwiches.
-* Use upselling strategies for drinks, sauces, and sides.
-* Target strong delivery areas such as Dubai Marina, Downtown Dubai, and Business Bay.
-* Improve returning customer revenue through loyalty rewards and repeat-order incentives.
-* Monitor high-volume low-revenue items separately from premium revenue drivers.
+- **Reduce single-channel dependency before it becomes a crisis.** Prioritise building a direct ordering option — even a minimal one. A 5–10% shift of Deliveroo orders to a direct channel at lower commission would meaningfully improve net margin without requiring revenue growth.
+
+- **Protect the top two SKUs operationally.** Beef Steak Sandwich and Spicy Chicken Sandwich should have dedicated stock buffers, quality checklists, and be the last items to be 86'd during busy periods. Revenue concentration in two items means operational failures hit the P&L directly.
+
+- **Bundle add-ons into meal deals to lift AOV.** Test a "sandwich + drink + sauce" bundle at 5–10% below à la carte pricing. Given add-on purchase frequency is already high, this is a low-risk AOV lever with no new customer acquisition required.
+
+- **Launch a simple returning-customer incentive.** A repeat-order discount (e.g. 10% off the 3rd order) or a stamp-card mechanic via Deliveroo promotions would directly address the new-vs-returning revenue imbalance. Track the cohort 30 and 60 days post-launch to measure retention lift.
+
+- **Expand delivery marketing within the top three areas before targeting new zones.** Penetrating Dubai Marina, Downtown Dubai, and Business Bay more deeply is lower cost and lower risk than expanding delivery radius. Once those areas are saturated, use the data to identify the next highest-potential zone.
+
+- **Run a monthly margin split report by order type.** If dine-in margin is materially lower than Deliveroo margin (after platform fees), that informs staffing, opening hours, and whether to push in-venue upselling or lean into delivery growth.
 
 ## Skills Demonstrated
 * Data cleaning with Power Query
